@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-🌱 I’m currently learning Web Development and Data Science
-
 📫 How to reach me:
  - Emai: aqsaabidin15@gmail.com
  - Twitter: @AqsaKA
