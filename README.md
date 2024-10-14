@@ -6,9 +6,9 @@
   <tr>
     <td valign="center">
       
-🎓 I am currently pursuing my **Bachelor's in Informatics Engineering**.
+🎓 Hi, I'm Aqsa, a 22-year-old software engineer from Indonesia with a degree in Informatics Engineering..
 
-🌱 I am currently learning **Laravel** and also interested in **Web Development**.
+🌱 I am currently learning **NextJS/ReactJS, NodeJS, Java, and Linux** and also interested in **Full Stack Development and Mobile Development**.
 
     
   </tr>
