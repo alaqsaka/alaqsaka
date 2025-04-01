@@ -8,7 +8,7 @@
       
 🎓 Hi, I'm Aqsa, a 22-year-old software engineer from Indonesia with a degree in Informatics Engineering..
 
-🌱 I am currently learning **NextJS/ReactJS, NodeJS, Java, and Linux** and also interested in **Full Stack Development and Mobile Development**.
+🌱 I am currently learning **NextJS/ReactJS, NodeJS, Java, Go, and Linux** and also interested in **Full Stack Development and Mobile Development**.
 
     
   </tr>
